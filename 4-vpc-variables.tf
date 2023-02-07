@@ -7,6 +7,7 @@ variable "vpc_name" {
   default = "LabVPC"
 }
 
+
 # VPC CIDR Block
 variable "vpc_cidr_block" {
   description = "LabVPC CIDR Block"
